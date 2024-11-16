@@ -1,4 +1,4 @@
-# BlueBikes-Boston-Web-Data-Connector
+# Live BlueBikes-Boston-Web-Data-Connector For Tableau
 Created a Web Data Connector that connects Tableau Desktop with the ArcGIS GeoServices REST API Live Data
 
 # ArcGIS Web Data Connector (WDC) for Tableau
